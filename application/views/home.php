@@ -8,7 +8,7 @@
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-           <!--  <p class="text-faded mb-5">Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p> -->
+            <p class="text-faded mb-5">The 4th International Conference on Teacher Training and Education 2018</p>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
           </div>
         </div>
@@ -18,11 +18,20 @@
 <section class="bg-primary" id="about">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">We've got what you need!</h2>
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-center section-heading text-white">Program</h2>
             <hr class="light my-4">
-            <p class="text-faded mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+            <p class="text-faded mb-4" align="justify">The 4th ICTTE 2018 invites researchers, academicians, &nbsp;educators, practitioners, government&nbsp; agencies, and consultants around the world to attend and share their insights, perspectives and new trends of researches which relate to the theme of the conference, </p>
+            <h5 class="mb-4" align="center"><strong>“Teacher Training and Education: Opportunity and challenges in fostering quality learning in open knowledge”</strong></h5>
+            <p class="text-faded mb-2">There will be two main agendas of the 4th ICTTE 2018:</p>
+            <ol>
+              <li><strong>International Conference of Teacher Training and Education<br>
+                  </strong><p class="text-faded">It will be a paper presentation by invited speakers in plenary session and all presenters in parallel session.</p></li>
+              <li><strong>Workshop for Academic Writing with Prof Paul K. Matsuda<br></strong></li>
+            </ol>
+            <!-- <div class="col-lg-8 mx-auto text-center">
+              <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+            </div> -->
           </div>
         </div>
       </div>
@@ -74,36 +83,23 @@
     <section class="bg-primary" id="important_dates">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
+          <div class="col-lg-10 mx-auto text-center">
             <h2 class="section-heading text-white">Important Dates</h2>
-            <table class="table table-hover">
-              <thead>
-                <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">First Name</th>
-                  <th scope="col">Last Name</th>
-                  <th scope="col">Username</th>
-                </tr>
-              </thead>
+            <table class="table table-hover table-striped">
+              
               <tbody>
                 <tr>
-                  <th scope="row">1</th>
-                  <td>Mark</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
+                  <th class="col-12">Abstract</th>
                 </tr>
                 <tr>
-                  <th scope="row">2</th>
-                  <td>Jacob</td>
-                  <td>Thornton</td>
-                  <td>@fat</td>
+                  <td class="col-lg-4">Abstract</td>
+                  <td class="col-lg-8">Abstract</td>
                 </tr>
                 <tr>
-                  <th scope="row">3</th>
-                  <td colspan="2">Larry the Bird</td>
-                  <td>@twitter</td>
-                </tr>
+                 <th class="col-lg-1">Abstract</th> 
+                </tr>  
               </tbody>
+            
             </table>
           </div>
         </div>
@@ -200,8 +196,8 @@
       <div class="container-fluid p-0">
         <div class="row no-gutters popup-gallery">
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/1.jpg">
+              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/1.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -215,8 +211,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
+            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/2.jpg">
+              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/2.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -230,8 +226,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/3.jpg">
+              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/3.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -245,8 +241,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
+            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/4.jpg">
+              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/4.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -260,8 +256,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
+            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/5.jpg">
+              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/5.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -275,8 +271,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
+            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/6.jpg">
+              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/6.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -293,12 +289,12 @@
       </div>
     </section>
 
-    <section class="bg-dark text-white">
+    <!-- <section class="bg-dark text-white">
       <div class="container text-center">
         <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
         <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
       </div>
-    </section>
+    </section> -->
 
     <section id="contact">
       <div class="container">

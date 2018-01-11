@@ -38,19 +38,22 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#speakers">Publication</a>
+              <a class="nav-link" href="">Publication</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#important_dates">Submission</a>
+              <a class="nav-link" href="">Registration</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#registration_flow">Sponsorship &amp; Exhibition</a>
+              <a class="nav-link" href="">Submission</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Info &amp; Contact</a>
+              <a class="nav-link" href="">Sponsorship &amp; Exhibition</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="">Info &amp; Contact</a>
             </li>
           </ul>
         </div>
@@ -58,6 +61,42 @@
     </nav>
 
     <?php echo $contents ?>
+
+    <footer>
+      <section class="bg-dark">
+        <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <h3 class="mb-3 text-white">Quick Links</h3>
+             <ul>
+               <li><a href="#" class="text-muted">Call For Papers</a></li>
+               <li><a href="#" class="text-muted">Publication</a></li>
+               <li><a href="#" class="text-muted">Registration</a></li>
+               <li><a href="#" class="text-muted">Submission</a></li>
+             </ul>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <h3 class="mb-3 text-white">The Conferences</h3>
+             <ul>
+               <li><a href="#" class="text-muted">ICTTE 2014</a></li>
+               <li><a href="#" class="text-muted">ICTTE 2015</a></li>
+               <li><a href="#" class="text-muted">ICTTE 2016</a></li>
+               <li><a href="#" class="text-muted">ICTTE 2017</a></li>
+             </ul>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <h3 class="mb-3 text-white">Secretariat</h3>
+               <p class="text-muted">Jl. Ahmad Yani No. 40, Solo, Kerten, Laweyan, Kota Surakarta, Jawa Tengah 57143 ictte@mail.uns.ac.id (62-271) 669124</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
 
     <!-- Bootstrap core JavaScript -->
     <script src="<?php echo base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
