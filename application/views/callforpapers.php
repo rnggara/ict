@@ -21,7 +21,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h1 class="section-heading text-center">Call For Paper ICTTE 2018</h1>
-            <hr class="light my-4">
+            <hr class="my-4">
 
             <!-- <p class="text-faded mb-4" align="justify">The 4th ICTTE 2018 invites researchers, academicians, &nbsp;educators, practitioners, government&nbsp; agencies, and consultants around the world to attend and share their insights, perspectives and new trends of researches which relate to the theme of the conference, </p>
             <h5 align="center"><strong>“Teacher Training and Education: Opportunity and challenges in fostering quality learning in open knowledge”</strong></h5> -->
@@ -58,7 +58,7 @@
       <div class="container-fluid p-0">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading">Topics</h2>
-            <hr class="my-4">
+            <hr class="light my-4">
         </div>
         <div class="col-lg-8 mx-auto">
           <table class="table table-striped bg-ligt">

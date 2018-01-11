@@ -84,20 +84,53 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto text-center">
-            <h2 class="section-heading text-white">Important Dates</h2>
-            <table class="table table-hover table-striped">
+            <h2 class="section-heading text-white mb-4">Important Dates</h2>
+            <hr class="light my-4">
+            <table class="table table-condensed">
               
               <tbody>
                 <tr>
-                  <th class="col-12">Abstract</th>
+                  <th class="active" colspan="2">Abstract</th>
                 </tr>
                 <tr>
-                  <td class="col-lg-4">Abstract</td>
-                  <td class="col-lg-8">Abstract</td>
+                  <td>Submission</td>
+                  <td class="text-faded">11th January 2018</td>
                 </tr>
                 <tr>
-                 <th class="col-lg-1">Abstract</th> 
-                </tr>  
+                  <td>Acceptance</td>
+                  <td class="text-faded">11th January 2018</td>
+                </tr>
+                <tr></tr>
+                <tr>
+                 <th class="active" colspan="2">Paper</th> 
+                </tr>
+                <tr>
+                  <td>Full Paper Submission</td>
+                  <td class="text-faded">11th January 2018</td>
+                </tr>
+                <tr></tr>
+                <tr>
+                 <th class="active" colspan="2">Payment</th> 
+                </tr>
+                <tr>
+                  <td>Early bird</td>
+                  <td class="text-faded">11th January 2018</td>
+                </tr>
+                <tr>
+                  <td>Regular</td>
+                  <td class="text-faded">11th January 2018</td>
+                </tr>
+                <tr>
+                 <th class="active" colspan="2">Main Event</th> 
+                </tr>
+                <tr>
+                  <td>Conference</td>
+                  <td class="text-faded">11th January 2018</td>
+                </tr>
+                <tr>
+                  <td>Workshop</td>
+                  <td class="text-faded">11th January 2018</td>
+                </tr> 
               </tbody>
             
             </table>
@@ -148,50 +181,7 @@
         </div>
       </div>
     </section>
-
-    <section id="services">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading">At Your Service</h2>
-            <hr class="my-4">
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-3 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">Sturdy Templates</h3>
-              <p class="text-muted mb-0">Our templates are updated regularly so they don't break.</p>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">Ready to Ship</h3>
-              <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">Up to Date</h3>
-              <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">Made with Love</h3>
-              <p class="text-muted mb-0">You have to make your websites with love these days!</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
+    
     <section class="p-0" id="portfolio">
       <div class="container-fluid p-0">
         <div class="row no-gutters popup-gallery">
