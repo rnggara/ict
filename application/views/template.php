@@ -22,7 +22,7 @@
     <link href="<?php echo base_url(); ?>assets/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="<?php echo base_url(); ?>assets/css/creative.min.css" rel="stylesheet">
+    <link href="<?php echo base_url(); ?>assets/css/creative.css" rel="stylesheet">
 
   </head>
 
@@ -41,19 +41,23 @@
               <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Publication</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>publication">Publication</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Registration</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>registration">Registration</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Submission</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>submission">Submission</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="">Sponsorship &amp; Exhibition</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="">Info &amp; Contact</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link" href="<?php echo base_url(); ?>#contact" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
+              <ul class="dropdown-menu nav-item bg-dark">
+                <li><a href="#" class="nav-link dropdown-item text-white">Item1</a></li>
+                <li><a href="#" class="nav-link dropdown-item text-white">Item1</a></li>
+              </ul>
             </li>
           </ul>
         </div>
@@ -68,8 +72,9 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <h3 class="mb-3 text-white">Quick Links</h3>
-             <ul>
+              <h3 class="mb-3 section-heading text-white">Quick Links</h3>
+              <hr class="my-4">
+             <ul class="section-footer">
                <li><a href="#" class="text-muted">Call For Papers</a></li>
                <li><a href="#" class="text-muted">Publication</a></li>
                <li><a href="#" class="text-muted">Registration</a></li>
@@ -79,8 +84,9 @@
           </div>
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <h3 class="mb-3 text-white">The Conferences</h3>
-             <ul>
+              <h3 class="mb-3 section-heading text-white">The Conferences</h3>
+              <hr class="my-4">
+             <ul class="section-footer">
                <li><a href="#" class="text-muted">ICTTE 2014</a></li>
                <li><a href="#" class="text-muted">ICTTE 2015</a></li>
                <li><a href="#" class="text-muted">ICTTE 2016</a></li>
@@ -91,6 +97,7 @@
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <h3 class="mb-3 text-white">Secretariat</h3>
+              <hr class="my-4">
                <p class="text-muted">Jl. Ahmad Yani No. 40, Solo, Kerten, Laweyan, Kota Surakarta, Jawa Tengah 57143 ictte@mail.uns.ac.id (62-271) 669124</p>
             </div>
           </div>
