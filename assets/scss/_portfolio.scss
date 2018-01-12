@@ -4,6 +4,11 @@
   display: block;
   max-width: 650px;
   margin: 0 auto;
+  .project-category {
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: uppercase;
+      }
   .portfolio-box-caption {
     position: absolute;
     bottom: 0;
@@ -26,13 +31,9 @@
         padding: 0 15px;
         @include sans-serif-font;
       }
-      .project-category {
-        font-size: 14px;
-        font-weight: 600;
-        text-transform: uppercase;
-      }
+      
       .project-name {
-        font-size: 18px;
+        font-size: 3px;
       }
     }
   }
