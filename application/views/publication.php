@@ -23,9 +23,18 @@
             <h1 class="section-heading text-center">Publication</h1>
             <hr class="my-4 mb-5">
 
-            <p class="mb-3" align="justify">The selected papers will be published in Atlantis Press publication as can be seen in the following link</p>
+            <p class="mb-5" align="justify">Paper presented in the 4th ICTTE 2018 will be granted the opportunity to be published in distinctive publication outlets subject to the conformity of the paper’s quality with the individual outlets’ publication policies. Should additional fees are required for publication; the authors will be notified beforehand.</p>
 
-            <div class="col-lg-8 mx-auto mb-5 text-center">
+            <ul class="mb-5" align="justify">
+              <li>Excellent papers will be nominated for publication in <strong><i>Pertanika Journal of Social Science and Humanities</i></strong> <a href="http://www.pertanika.upm.edu.my/JSSH.php">(http://www.pertanika.upm.edu.my/JSSH.php)</a>
+              . The journal is indexed in Scopus.</li>
+              <li>Selected papers will be published in <strong><i>Atlantis Press</i></strong>. The publisher will submit all of the papers to be indexed in EI Compendex, Thomson Reuters Web of Science CPCI-S (ISTP indexing) and CNKI Scholar to worldwide online citation. Link to the previous year conference proceeding is available at <a href="https://www.atlantis-press.com/proceedings/ictte-17">https://www.atlantis-press.com/proceedings/ictte-17</a>.</li>
+              <li>Ten selected papers will be published in <strong><i>International Journal of Pedagogy and Teacher Education (IJPTE)</i></strong> October 2018 issue. The IJPTE (e-ISSN: 2549-8525) is indexed by DOAJ, Crossref, Index Copernicus, and Google Scholar for worldwide readerships. IJPTE can be accessed via <a href="https://jurnal.uns.ac.id/ijpte">https://jurnal.uns.ac.id/ijpt</a>.</li>
+              <li>Ten relevant papers will be published in the <strong><i> Indonesian Journal of Informatics Education</i></strong> November 2018 Issue.  The IJIE (e-ISSN: 2549-0389) is indexed by Crossref, Index Copernicus, Portal Garuda and Google Scholar. The link to IJIE is available at <a href="https://jurnal.uns.ac.id/ijie">https://jurnal.uns.ac.id/ijie</a>.</li>
+              <li>The rest of the papers will be published at the <strong><i>Science, Engineering, Education and Development Studies (SEEDS): Conference Series</i></strong>.</li>
+            </ul>
+
+           <!--  <div class="col-lg-8 mx-auto mb-5 text-center">
              <a class="btn btn-primary btn-xl js-scroll-trigger" href="http://www.atlantis-press.com/index_atlantis_press.html?http%3A//www.atlantis-press.com/php/proceedings_ordering-2.php%3Fall" align="center">Atlantis Press</a>
             </div>
 
@@ -33,7 +42,7 @@
 
             <div class="col-lg-8 mx-auto mb-5 text-center">
              <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://jurnal.uns.ac.id/ijpte" align="center">IJPTE</a>
-            </div>
+            </div> -->
 
             <p class="text-muted mb-5" align="justify">In case of publications: The additional payment of publication will be taken and will be told at the time of acceptance</p>
             

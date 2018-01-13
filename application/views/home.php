@@ -3,12 +3,16 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>ICTTE 2018</strong>
+              <strong>THE 4TH ICTTE</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">The 4th International Conference on Teacher Training and Education 2018</p>
+            <p class="mb-5">The 4th International Conference on Teacher Training and Education</p>
+
+            <h3 class="text-faded mb-5">18-19 JULY 2018</h3>
+
+            <h5 class="text-faded mb-5">SURAKARTA, INDONESIA - ALILA HOTEL</h5>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
           </div>
         </div>
@@ -19,16 +23,16 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-center section-heading text-white">Program</h2>
+            <h2 class="text-center section-heading text-white">TOPIC</h2>
             <hr class="light my-4 mb-5">
-            <p class="text-faded mb-4" align="justify">The 4th ICTTE 2018 invites researchers, academicians, &nbsp;educators, practitioners, government&nbsp; agencies, and consultants around the world to attend and share their insights, perspectives and new trends of researches which relate to the theme of the conference, </p>
-            <h5 class="mb-4" align="center"><strong>“Teacher Training and Education: Opportunity and challenges in fostering quality learning in open knowledge”</strong></h5>
-            <p class="text-faded mb-2">There will be two main agendas of the 4th ICTTE 2018:</p>
+            <!-- <p class="text-faded mb-4" align="justify">The 4th ICTTE 2018 invites researchers, academicians, &nbsp;educators, practitioners, government&nbsp; agencies, and consultants around the world to attend and share their insights, perspectives and new trends of researches which relate to the theme of the conference, </p> -->
+            <h3 class="mb-4" align="center"><strong>“STRENGTHENING THE NETWORK AND COLLABORATION TO ANTICIPATE INFORMATION AND EDUCATION DISRUPTION.”</strong></h3>
+            <!-- <p class="text-faded mb-2">There will be two main agendas of the 4th ICTTE 2018:</p>
             <ol>
               <li><strong>International Conference of Teacher Training and Education<br>
                   </strong><p class="text-faded">It will be a paper presentation by invited speakers in plenary session and all presenters in parallel session.</p></li>
               <li><strong>Workshop for Academic Writing with Prof Paul K. Matsuda<br></strong></li>
-            </ol>
+            </ol> -->
             <!-- <div class="col-lg-8 mx-auto text-center">
               <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
             </div> -->
@@ -112,51 +116,51 @@
     <section class="bg-light" id="important_dates">
       <div class="container">
         <div class="row">
-          <div class="col-lg-10 mx-auto text-center">
-            <h2 class="section-heading mb-4">Important Dates</h2>
+          <div class="col-lg-10 mx-auto">
+            <h2 class="section-heading mb-4 text-center">Important Dates</h2>
             <hr class="my-4 mb-5">
             <table class="table table-striped">
               
               <tbody>
                 <tr>
-                  <th class="active text-secondary" colspan="2">Abstract</th>
+                  <th class="active text-secondary" colspan="2">Full Paper</th>
                 </tr>
                 <tr>
-                  <td>Submission</td>
-                  <td class="text-muted">11th January 2018</td>
+                  <td>20th Jan 2018</td>
+                  <td class="text-muted">Abstract submission deadline</td>
                 </tr>
                 <tr>
-                  <td>Acceptance</td>
-                  <td class="text-muted">11th January 2018</td>
+                  <td>28th Feb 2018</td>
+                  <td class="text-muted">Notification of Full Paper Acceptance</td>
+                </tr>
+                <tr>
+                  <td>30th Mar 2018</td>
+                  <td class="text-muted">Full paper submission</td>
                 </tr>
                  <tr>
-                 <th class="active text-secondary" colspan="2">Paper</th> 
+                 <th class="active text-secondary" colspan="2">Registration</th> 
                 </tr>
                 <tr>
-                  <td>Full Paper Submission</td>
-                  <td class="text-muted">11th January 2018</td>
+                  <td>15th Mar 2017</td>
+                  <td class="text-muted">Early Bird Payment</td>
                 </tr>
                 <tr>
-                 <th class="active text-secondary" colspan="2">Payment</th> 
+                  <td>20th Apr 2018</td>
+                  <td class="text-muted">Regular Payment</td>
                 </tr>
                 <tr>
-                  <td>Early bird</td>
-                  <td class="text-muted">11th January 2018</td>
+                  <td>30th Nov 2018</td>
+                  <td class="text-muted">Registration Deadline</td>
+                </tr>                
+                 <th class="active text-secondary" colspan="2">Conference</th> 
                 </tr>
                 <tr>
-                  <td>Regular</td>
-                  <td class="text-muted">11th January 2018</td>
+                  <td>10th July 2018</td>
+                  <td class="text-muted">ICTTE 2018 Conference Programs</td>
                 </tr>
                 <tr>
-                 <th class="active text-secondary" colspan="2">Main Event</th> 
-                </tr>
-                <tr>
-                  <td>Conference</td>
-                  <td class="text-muted">11th January 2018</td>
-                </tr>
-                <tr>
-                  <td>Workshop</td>
-                  <td class="text-muted">11th January 2018</td>
+                  <td>18th – 19th July 2018</td>
+                  <td class="text-muted">ICTTE 2018 Conference Date</td>
                 </tr> 
               </tbody>
             
