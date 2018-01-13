@@ -53,10 +53,10 @@
               <a class="nav-link" href="">Sponsorship &amp; Exhibition</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link" href="<?php echo base_url(); ?>#contact" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
-              <ul class="dropdown-menu nav-item bg-dark">
-                <li><a href="#" class="nav-link dropdown-item text-white">Item1</a></li>
-                <li><a href="#" class="nav-link dropdown-item text-white">Item1</a></li>
+              <a class="nav-link" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
+              <ul class="dropdown-menu ml-auto nav-item bg-secondary">
+                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item text-white">Comittee</a></li>
+                <li><a href="<?php echo base_url(); ?>contact" class="nav-link dropdown-item text-white">Contact</a></li>
               </ul>
             </li>
           </ul>
@@ -75,10 +75,10 @@
               <h3 class="mb-3 section-heading text-white">Quick Links</h3>
               <hr class="my-4">
              <ul class="section-footer">
-               <li><a href="#" class="text-muted">Call For Papers</a></li>
-               <li><a href="#" class="text-muted">Publication</a></li>
-               <li><a href="#" class="text-muted">Registration</a></li>
-               <li><a href="#" class="text-muted">Submission</a></li>
+               <li><a href="#" class="text-secondary">Call For Papers</a></li>
+               <li><a href="#" class="text-secondary">Publication</a></li>
+               <li><a href="#" class="text-secondary">Registration</a></li>
+               <li><a href="#" class="text-secondary">Submission</a></li>
              </ul>
             </div>
           </div>
@@ -87,10 +87,10 @@
               <h3 class="mb-3 section-heading text-white">The Conferences</h3>
               <hr class="my-4">
              <ul class="section-footer">
-               <li><a href="#" class="text-muted">ICTTE 2014</a></li>
-               <li><a href="#" class="text-muted">ICTTE 2015</a></li>
-               <li><a href="#" class="text-muted">ICTTE 2016</a></li>
-               <li><a href="#" class="text-muted">ICTTE 2017</a></li>
+               <li><a href="#" class="text-secondary">ICTTE 2014</a></li>
+               <li><a href="#" class="text-secondary">ICTTE 2015</a></li>
+               <li><a href="#" class="text-secondary">ICTTE 2016</a></li>
+               <li><a href="#" class="text-secondary">ICTTE 2017</a></li>
              </ul>
             </div>
           </div>
@@ -98,7 +98,9 @@
             <div class="service-box mt-5 mx-auto">
               <h3 class="mb-3 text-white">Secretariat</h3>
               <hr class="my-4">
-               <p class="text-muted">Jl. Ahmad Yani No. 40, Solo, Kerten, Laweyan, Kota Surakarta, Jawa Tengah 57143 ictte@mail.uns.ac.id (62-271) 669124</p>
+               <p class="text-muted">Jl. Ahmad Yani No. 40, Solo, Kerten, Laweyan, Kota Surakarta, Jawa Tengah 57143</p>
+               <a href="mailto:ictte@mail.uns.ac.id" class="text-secondary">ictte@mail.uns.ac.id</a>
+               <p class="text-muted">(62-271) 669124</p>
             </div>
           </div>
         </div>

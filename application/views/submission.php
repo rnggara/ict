@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h1 class="section-heading text-center">Submission</h1>
+            <h1 class="section-heading text-center text-uppercase">Submission</h1>
             <hr class="my-4 mb-5">
 
             <p class="mb-3" align="center">Click the link below to download the paper template</p>

@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h1 class="section-heading text-center">Publication</h1>
+            <h1 class="section-heading text-center text-uppercase">Publication</h1>
             <hr class="my-4 mb-5">
 
             <p class="mb-5" align="justify">Paper presented in the 4th ICTTE 2018 will be granted the opportunity to be published in distinctive publication outlets subject to the conformity of the paper’s quality with the individual outlets’ publication policies. Should additional fees are required for publication; the authors will be notified beforehand.</p>

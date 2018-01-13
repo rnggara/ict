@@ -32,16 +32,6 @@
               <li>Ms. Dian Sari Maisaroh, S.Pi., M.Si. (Secretariat)</li>
             </ul>
 
-           <!--  <div class="col-lg-8 mx-auto mb-5 text-center">
-             <a class="btn btn-primary btn-xl js-scroll-trigger" href="http://www.atlantis-press.com/index_atlantis_press.html?http%3A//www.atlantis-press.com/php/proceedings_ordering-2.php%3Fall" align="center">Atlantis Press</a>
-            </div>
-
-            <p class="mb-3" align="justify">Other papers will be published in International Journal of Pedagogy and Teacher Education (IJPTE).&nbsp;Excellent papers will be proposed to be submitted to Issues in Educational Research (Scopus Indexed).</p>
-
-            <div class="col-lg-8 mx-auto mb-5 text-center">
-             <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://jurnal.uns.ac.id/ijpte" align="center">IJPTE</a>
-            </div> -->
-            
           </div>
         </div>
       </div>
@@ -64,17 +54,6 @@
               <li>Muchlison Anis, S.T., M.T. (Program Chair)</li>
               <li>Ms. Dian Sari Maisaroh, S.Pi., M.Si. (Secretariat)</li>
             </ul>
-
-           <!--  <div class="col-lg-8 mx-auto mb-5 text-center">
-             <a class="btn btn-primary btn-xl js-scroll-trigger" href="http://www.atlantis-press.com/index_atlantis_press.html?http%3A//www.atlantis-press.com/php/proceedings_ordering-2.php%3Fall" align="center">Atlantis Press</a>
-            </div>
-
-            <p class="mb-3" align="justify">Other papers will be published in International Journal of Pedagogy and Teacher Education (IJPTE).&nbsp;Excellent papers will be proposed to be submitted to Issues in Educational Research (Scopus Indexed).</p>
-
-            <div class="col-lg-8 mx-auto mb-5 text-center">
-             <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://jurnal.uns.ac.id/ijpte" align="center">IJPTE</a>
-            </div> -->
-            
           </div>
         </div>
       </div>
