@@ -21,7 +21,7 @@
             <h2 class="section-heading text-uppercase">Registration Fee</h2>
             <hr class="my-4 mb-5">
         </div>
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-10 mx-auto">
           <table class="table table-bordered" width="486">
             <tr><td rowspan="3" class="table-dark" align="center">Participation Type</td><td class="table-dark" colspan="4" align="center" >Fees</td></tr>
             
@@ -50,7 +50,7 @@
   <div>
     <div class="container">
         <div class="row">
-          <div class="col-lg-8 mx-auto">
+          <div class="col-lg-12 mx-auto">
 
             <p class="mb-3">A huge discount will be given for the second paper of the same first author.</p>
 
@@ -81,7 +81,7 @@
 
             <p class="mb-3">Payment in IDR please <strong>add “18”</strong> in the amount of payment. For example: IDR 2,500,018</p>
 
-            <p class="mb-3">Please email the scanned of payment receipt to <a href="mailto:ictte@fkip.uns.ac.id">ictte@fkip.uns.ac.id</a> to confirm your payment. For quicker response, please put your email subject under <strong>Payment_Paper ID_Name </strong> format.</p>
+            <p class="mb-3">Please email the scanned of payment receipt to <a href="mailto:ictte@fkip.uns.ac.id">ictte@fkip.uns.ac.id</a> to confirm your payment. For quicker response, please put your email subject under <strong><i>Payment_Paper ID_Name</i></strong> format.</p>
             
           </div>
         </div>

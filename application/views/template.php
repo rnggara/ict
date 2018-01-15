@@ -41,7 +41,7 @@
               <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url(); ?>publication">Publication</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Publication</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url(); ?>registration">Registration</a>
@@ -54,9 +54,9 @@
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
-              <ul class="dropdown-menu ml-auto nav-item bg-secondary">
-                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item text-white">Comittee</a></li>
-                <li><a href="<?php echo base_url(); ?>contact" class="nav-link dropdown-item text-white">Contact</a></li>
+              <ul class="dropdown-menu ml-auto nav-item">
+                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item">Comittee</a></li>
+                <li><a href="<?php echo base_url(); ?>contact" class="nav-link dropdown-item">Contact</a></li>
               </ul>
             </li>
           </ul>
@@ -75,10 +75,10 @@
               <h3 class="mb-3 section-heading text-white">Quick Links</h3>
               <hr class="my-4">
              <ul class="section-footer">
-               <li><a href="#" class="text-secondary">Call For Papers</a></li>
-               <li><a href="#" class="text-secondary">Publication</a></li>
-               <li><a href="#" class="text-secondary">Registration</a></li>
-               <li><a href="#" class="text-secondary">Submission</a></li>
+               <li><a href="<?php echo base_url(); ?>callforpapers" class="text-secondary">Call For Papers</a></li>
+               <li><a href="<?php echo base_url(); ?>callforpapers" class="text-secondary">Publication</a></li>
+               <li><a href="<?php echo base_url(); ?>registration" class="text-secondary">Registration</a></li>
+               <li><a href="<?php echo base_url(); ?>submission" class="text-secondary">Submission</a></li>
              </ul>
             </div>
           </div>

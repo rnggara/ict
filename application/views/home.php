@@ -22,11 +22,11 @@
 <section class="bg-primary" id="about">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 mx-auto">
+          <div class="col-lg-12 mx-auto">
             <h2 class="text-center section-heading text-white">TOPIC</h2>
             <hr class="light my-4 mb-5">
             <!-- <p class="text-faded mb-4" align="justify">The 4th ICTTE 2018 invites researchers, academicians, &nbsp;educators, practitioners, government&nbsp; agencies, and consultants around the world to attend and share their insights, perspectives and new trends of researches which relate to the theme of the conference, </p> -->
-            <h3 class="mb-4" align="center"><strong>“STRENGTHENING THE NETWORK AND COLLABORATION TO ANTICIPATE INFORMATION AND EDUCATION DISRUPTION.”</strong></h3>
+            <h3 class="mb-4" align="center"><strong>“REINFORCE NETWORK OF COLLABORATION TO ANTICIPATE INFORMATION DISRUPTION.”</strong></h3>
             <!-- <p class="text-faded mb-2">There will be two main agendas of the 4th ICTTE 2018:</p>
             <ol>
               <li><strong>International Conference of Teacher Training and Education<br>
@@ -45,7 +45,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Our Speakers</h2>
+            <h2 class="section-heading text-uppercase">KeyNote Speakers</h2>
             <hr class="my-4 mb-5">
           </div>
         </div>
@@ -54,15 +54,15 @@
         <div class="row">
           <div class="col-lg-4 col-sm-6">
             <div class="service-box mt-5 mx-auto">
-              <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/1.jpg" alt="">
+              <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/prof_hideo.jpg">
+              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/prof_hideo.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Register
+                    PROF. DR. HIDEO NAKATA
                   </div>
                   <div class="project-name">
-                    Register your participation
+                    University of Tsukuba - Japan
                   </div>
                 </div>
               </div>
@@ -71,15 +71,15 @@
           </div>
           <div class="col-lg-4 col-sm-6">
             <div class="service-box mt-5 mx-auto">
-              <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/1.jpg" alt="">
+              <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/liyanage.jpg">
+              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/liyanage.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Register
+                    PROF. CHANDRATILAK DE SILVA LIYANAGE
                   </div>
                   <div class="project-name">
-                    Register your participation
+                    Universiti Brunei Darussalam
                   </div>
                 </div>
               </div>
@@ -88,15 +88,15 @@
           </div>
           <div class="col-lg-4 col-sm-6">
             <div class="service-box mt-5 mx-auto">
-              <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/1.jpg" alt="">
+              <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/sitta_rosdaniah.png">
+              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/sitta_rosdaniah.png" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Register
+                    DR. SITTA IZZA ROSDANIAH
                   </div>
                   <div class="project-name">
-                    Register your participation
+                    PT. Jakarta Industrial Estate Pulogadung (JIEP)
                   </div>
                 </div>
               </div>
@@ -116,50 +116,54 @@
     <section class="bg-light" id="important_dates">
       <div class="container">
         <div class="row">
-          <div class="col-lg-10 mx-auto">
+          <div class="col-lg-12 mx-auto">
             <h2 class="section-heading mb-4 text-center">Important Dates</h2>
             <hr class="my-4 mb-5">
-            <table class="table table-striped">
+            <table class="table table-striped table-bordered">
               
               <tbody>
                 <tr>
                   <th class="active text-secondary" colspan="2">Full Paper</th>
                 </tr>
                 <tr>
-                  <td>20th Jan 2018</td>
+                  <td>March 20th  2018</td>
                   <td class="text-muted">Abstract submission deadline</td>
                 </tr>
                 <tr>
-                  <td>28th Feb 2018</td>
+                  <td>March 28th 2018</td>
                   <td class="text-muted">Notification of Full Paper Acceptance</td>
                 </tr>
                 <tr>
-                  <td>30th Mar 2018</td>
+                  <td>May 30th  2018</td>
                   <td class="text-muted">Full paper submission</td>
+                </tr>
+                <tr>
+                  <td>July 5th 2018</td>
+                  <td class="text-muted">Revised Paper submission deadline</td>
                 </tr>
                  <tr>
                  <th class="active text-secondary" colspan="2">Registration</th> 
                 </tr>
                 <tr>
-                  <td>15th Mar 2017</td>
+                  <td>April 15th 2018</td>
                   <td class="text-muted">Early Bird Payment</td>
                 </tr>
                 <tr>
-                  <td>20th Apr 2018</td>
+                  <td>May 30rd 2018</td>
                   <td class="text-muted">Regular Payment</td>
                 </tr>
-                <tr>
+                <!-- <tr>
                   <td>30th Nov 2018</td>
                   <td class="text-muted">Registration Deadline</td>
-                </tr>                
+                </tr>  -->               
                  <th class="active text-secondary" colspan="2">Conference</th> 
                 </tr>
                 <tr>
-                  <td>10th July 2018</td>
+                  <td>July 10th  2018</td>
                   <td class="text-muted">ICTTE 2018 Conference Programs</td>
                 </tr>
                 <tr>
-                  <td>18th – 19th July 2018</td>
+                  <td>July 18th – 19th 2018</td>
                   <td class="text-muted">ICTTE 2018 Conference Date</td>
                 </tr> 
               </tbody>
@@ -174,7 +178,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">How to register</h2>
+            <h2 class="section-heading text-uppercase">How to register</h2>
             <hr class="my-4 mb-5">
           </div>
         </div>
@@ -356,8 +360,8 @@
     <section class="bg-light" id="contact">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Contact</h2>
+          <div class="col-lg-12 mx-auto text-center">
+            <h2 class="section-heading text-uppercase">Contact</h2>
             <hr class="my-4 mb-5">
             <p class="mb-5">For any queries and further information, contact us at:</p>
           </div>
