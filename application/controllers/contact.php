@@ -7,11 +7,15 @@
 		}
 
 		function index(){
-			$this->template->load('template','contact');
+			$this->template->load('template','contact/contact');
 		}
 
 		function comittee(){
-			$this->template->load('template','comittee');
+			$this->template->load('template','contact/comittee');
+		}
+
+		function accommodation(){
+			$this->template->load('template','contact/accommodation');
 		}
 	}
 

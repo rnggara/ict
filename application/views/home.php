@@ -52,10 +52,10 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-4 col-sm-12">
             <div class="service-box mt-5 mx-auto">
               <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/prof_hideo.jpg">
-              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/prof_hideo.jpg" alt="">
+              <img width="400px" height="400px" class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/speakers/profhideo.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -69,10 +69,10 @@
             </a>
             </div>
           </div>
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-4 col-sm-12">
             <div class="service-box mt-5 mx-auto">
               <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/liyanage.jpg">
-              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/liyanage.jpg" alt="">
+              <img width="400px" height="400px" class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/speakers/liyanage.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -86,10 +86,10 @@
             </a>
             </div>
           </div>
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-4 col-sm-12">
             <div class="service-box mt-5 mx-auto">
               <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/sitta_rosdaniah.png">
-              <img class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/sitta_rosdaniah.png" alt="">
+              <img width="400px" height="400px" class="img-fluid sr-icons" src="<?php  echo base_url(); ?>assets/img/speakers/sitta_rosdaniah.png">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">

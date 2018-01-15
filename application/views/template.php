@@ -41,21 +41,21 @@
               <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Publication</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>publication">Publication</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url(); ?>registration">Registration</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url(); ?>submission">Submission</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url(); ?>accommodation">Accommodation</a>
-            </li>
+            </li>            
             <li class="nav-item dropdown">
               <a class="nav-link" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
-              <ul class="dropdown-menu ml-auto nav-item">
-                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item">Comittee</a></li>
+              <ul class="dropdown-menu ml-auto nav-item text-uppercase">
+                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item">Conference Venue</a></li>
+                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item">Comittee</a></li>                
+                <li><a href="<?php echo base_url(); ?>contact/accommodation" class="nav-link dropdown-item">Accommodation</a></li>
+                <li><a href="<?php echo base_url(); ?>contact/accommodation" class="nav-link dropdown-item">Flight and Visa</a></li>
                 <li><a href="<?php echo base_url(); ?>contact" class="nav-link dropdown-item">Contact</a></li>
               </ul>
             </li>
@@ -70,7 +70,7 @@
       <section class="bg-dark">
         <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-md-6 text-center">
+          <div class="col-lg-4 col-md-12 text-center">
             <div class="service-box mt-5 mx-auto">
               <h3 class="mb-3 section-heading text-white">Quick Links</h3>
               <hr class="my-4">
@@ -82,7 +82,7 @@
              </ul>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 text-center">
+          <div class="col-lg-4 col-md-12 text-center">
             <div class="service-box mt-5 mx-auto">
               <h3 class="mb-3 section-heading text-white">The Conferences</h3>
               <hr class="my-4">
@@ -94,7 +94,7 @@
              </ul>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 text-center">
+          <div class="col-lg-4 col-md-12 text-center">
             <div class="service-box mt-5 mx-auto">
               <h3 class="mb-3 text-white">Secretariat</h3>
               <hr class="my-4">
