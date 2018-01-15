@@ -56,9 +56,7 @@
 
             <h4>The 1st ICTTE 2015</h4>
             <ul class="mb-5" align="justify">
-              <li class="mb-3"><strong>Proceedings of the International Conference on Teacher Training and Education 2015 (ICTTE 2015)</strong>. The journal can be accesssed at <i><a href="http://www.pertanika.upm.edu.my/JSSH.php">http://www.pertanika.upm.edu.my/JSSH.php</a></i></li>
-              <li class="mb-3"><strong>International Journal of Pedagogy and Teacher Education (IJPTE), Universitas Sebelas Maret. Vol 1. Issue 2. 2017</strong>. ISSN: 2502-4124, Volume: 1 Issue 1 2016. Link to the publication: <i><a href="http://jurnal.fkip.uns.ac.id/index.php/ictte/issue/current">http://jurnal.fkip.uns.ac.id/index.php/ictte/issue/current</a></i> 
-              </li>
+              <li class="mb-3"><strong>Proceedings of the International Conference on Teacher Training and Education 2015 (ICTTE 2015)</strong>. The journal can be accesssed at <i><a href="http://jurnal.fkip.uns.ac.id/index.php/ictte/issue/current">http://jurnal.fkip.uns.ac.id/index.php/ictte/issue/current</a></i></li>              
             </ul>
 
           </div>

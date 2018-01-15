@@ -23,7 +23,7 @@
             <h1 class="section-heading text-center text-uppercase">The Venue</h1>
             <hr class="my-4 mb-5">
 
-            <h3 class="mb-4" align="center">UNS Inn, Surakarta</h3>
+            <h3 class="mb-4" align="center"><a href="http://www.unsinnsolo.com" class="text-muted">UNS Inn, Surakarta</a></h3>
 
             <p class="mb-4" align="center">Jl. Ir. Sutami No. 36 A, Kentingan, Surakarta - Indonesia</p>
             
