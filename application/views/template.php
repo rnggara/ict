@@ -50,7 +50,7 @@
               <a class="nav-link" href="<?php echo base_url(); ?>submission">Submission</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Sponsorship &amp; Exhibition</a>
+              <a class="nav-link" href="<?php echo base_url(); ?>accommodation">Accommodation</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
