@@ -37,27 +37,34 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropbtn" href="<?php echo base_url(); ?>callforpapers">Call For Papers</a>
+              <div class="dropdown-content ml-auto nav-item">
+                <a href="<?php echo base_url(); ?>callforpapers/area_of_research" class="nav-link">Area of research</a>
+              </div>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url(); ?>publication">Publication</a>
+            <li class="nav-item dropdown">
+              <a class="dropbtn nav-link" href="<?php echo base_url(); ?>publication">Publication</a>
+              <div class="dropdown-content ml-auto nav-item">
+                <a href="<?php echo base_url(); ?>publication/prev_conferences" class="nav-link">Previous Conferences</a>
+              </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url(); ?>registration">Registration</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url(); ?>submission">Submission</a>
-            </li>            
+            </li>
+                       
             <li class="nav-item dropdown">
-              <a class="nav-link" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info &amp; Contact</a>
-              <ul class="dropdown-menu ml-auto nav-item text-uppercase">
-                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item">Conference Venue</a></li>
-                <li><a href="<?php echo base_url(); ?>contact/comittee" class="nav-link dropdown-item">Comittee</a></li>                
-                <li><a href="<?php echo base_url(); ?>contact/accommodation" class="nav-link dropdown-item">Accommodation</a></li>
-                <li><a href="<?php echo base_url(); ?>contact/accommodation" class="nav-link dropdown-item">Flight and Visa</a></li>
-                <li><a href="<?php echo base_url(); ?>contact" class="nav-link dropdown-item">Contact</a></li>
-              </ul>
+              <a class="dropbtn nav-link" href="">Info &amp; Contact</a>
+              <div class="dropdown-content ml-auto nav-item">
+                <a href="<?php echo base_url(); ?>contact/venue" class="nav-link">Conference Venue</a>
+                <a href="<?php echo base_url(); ?>contact/comittee" class="nav-link">Comittee</a>                
+                <a href="<?php echo base_url(); ?>contact/accommodation" class="nav-link">Accommodation</a>
+                <a href="<?php echo base_url(); ?>contact/flight_and_visa" class="nav-link">Flight and Visa</a>
+                <a href="<?php echo base_url(); ?>contact" class="nav-link">Contact</a>
+              </div>
             </li>
           </ul>
         </div>
@@ -82,15 +89,28 @@
              </ul>
             </div>
           </div>
-          <div class="col-lg-4 col-md-12 text-center">
+          <div class="col-lg-4 col-md-12">
             <div class="service-box mt-5 mx-auto">
-              <h3 class="mb-3 section-heading text-white">The Conferences</h3>
+              <h4 class="mb-3 section-heading text-white text-center">Publication of Previous Conferences</h4>
               <hr class="my-4">
-             <ul class="section-footer">
-               <li><a href="#" class="text-secondary">ICTTE 2014</a></li>
-               <li><a href="#" class="text-secondary">ICTTE 2015</a></li>
-               <li><a href="#" class="text-secondary">ICTTE 2016</a></li>
-               <li><a href="#" class="text-secondary">ICTTE 2017</a></li>
+             <ul class="section-footer">               
+               <li class="text-faded">The 3rd ICTTE 2017
+                  <ul>
+                    <li><a href="https://www.atlantis-press.com/proceedings/ictte-17" class="text-secondary">Proceedings of ICTTE 2017, Atlantis Press</a></li>
+                    <li><a href="https://jurnal.uns.ac.id/ijpte/issue/view/1322" class="text-secondary">IJPTE, Vol 1. Issue 2. 2017</a></li>                    
+                  </ul>
+               </li>
+               <li class="text-faded">The 2nd ICTTE 2016
+                <ul>
+                    <li><a href="http://www.pertanika.upm.edu.my/JSSH.php" class="text-secondary">Pertanika JSSH, Vol 25 (S) September 2017</a></li>
+                    <li><a href="https://jurnal.uns.ac.id/ijpte/issue/view/558" class="text-secondary">IJPTE, Vol 1. Issue 2. 2017</a></li>
+                  </ul>
+               </li>
+               <li class="text-faded">The 1st ICTTE 2015
+                  <ul>
+                    <li><a href="http://jurnal.fkip.uns.ac.id/index.php/ictte/issue/current" class="text-secondary">Proceedings of ICTTE 2015</a></li>                    
+                  </ul>
+              </li>
              </ul>
             </div>
           </div>

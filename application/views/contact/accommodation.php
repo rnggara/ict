@@ -15,7 +15,7 @@
       </div>
     </header>
 
-<section>
+<section id="about">
       <div class="container-fluid p-0">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Accommodation</h2>

@@ -7,12 +7,12 @@
             </h1>
             <hr>
           </div>
-          <div class="col-lg-8 mx-auto">
+          <div class="col-lg-12 mx-auto">
             <p class="mb-5">The 4th International Conference on Teacher Training and Education</p>
 
-            <h3 class="text-faded mb-5">18-19 JULY 2018</h3>
+            <h5 class="text-faded mb-5">18-19 JULY 2018</h5>
 
-            <h5 class="text-faded mb-5">SURAKARTA, INDONESIA - ALILA HOTEL</h5>
+            <h5 class="text-faded mb-5">SURAKARTA, INDONESIA - UNS INN</h5>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
           </div>
         </div>
@@ -116,8 +116,8 @@
     <section class="bg-light" id="important_dates">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 mx-auto">
-            <h2 class="section-heading mb-4 text-center">Important Dates</h2>
+          <div class="col-lg-10 mx-auto">
+            <h2 class="section-heading mb-4 text-center text-uppercase">Important Dates</h2>
             <hr class="my-4 mb-5">
             <table class="table table-striped table-bordered">
               
