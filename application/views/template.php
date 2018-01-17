@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url(); ?>assets/img/favicon.png">
 
     <title>THE 4th ICTTE</title>
 
@@ -31,7 +32,9 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="<?php echo base_url(); ?>">ICTTE 2018</a>
+        <a class="navbar-brand js-scroll-trigger" href="<?php echo base_url(); ?>">
+          <img src="<?php echo base_url(); ?>assets/img/icon.png">
+        </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -83,9 +86,15 @@
               <hr class="my-4">
              <ul class="section-footer">
                <li><a href="<?php echo base_url(); ?>callforpapers" class="text-secondary">Call For Papers</a></li>
-               <li><a href="<?php echo base_url(); ?>callforpapers" class="text-secondary">Publication</a></li>
+               <li><a href="<?php echo base_url(); ?>callforpapers/area_of_research" class="text-secondary">Area Of Research</a></li>
+               <li><a href="<?php echo base_url(); ?>publication" class="text-secondary">Publication</a></li>
                <li><a href="<?php echo base_url(); ?>registration" class="text-secondary">Registration</a></li>
                <li><a href="<?php echo base_url(); ?>submission" class="text-secondary">Submission</a></li>
+               <li><a href="<?php echo base_url(); ?>contact/venue" class="text-secondary">Conference Venue</a></li>
+               <li><a href="<?php echo base_url(); ?>contact/comittee" class="text-secondary">Comittee</a></li>
+               <li><a href="<?php echo base_url(); ?>contact/accommodation" class="text-secondary">Accommodation</a></li>
+               <li><a href="<?php echo base_url(); ?>contact/flight_and_visa" class="text-secondary">Flight and Visa</a></li>
+               <li><a href="<?php echo base_url(); ?>contact/" class="text-secondary">Contact</a></li>
              </ul>
             </div>
           </div>

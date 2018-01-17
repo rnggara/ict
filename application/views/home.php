@@ -25,17 +25,7 @@
           <div class="col-lg-12 mx-auto">
             <h2 class="text-center section-heading text-white">TOPIC</h2>
             <hr class="light my-4 mb-5">
-            <!-- <p class="text-faded mb-4" align="justify">The 4th ICTTE 2018 invites researchers, academicians, &nbsp;educators, practitioners, government&nbsp; agencies, and consultants around the world to attend and share their insights, perspectives and new trends of researches which relate to the theme of the conference, </p> -->
             <h3 class="mb-4" align="center"><strong>“REINFORCE NETWORK OF COLLABORATION TO ANTICIPATE INFORMATION DISRUPTION.”</strong></h3>
-            <!-- <p class="text-faded mb-2">There will be two main agendas of the 4th ICTTE 2018:</p>
-            <ol>
-              <li><strong>International Conference of Teacher Training and Education<br>
-                  </strong><p class="text-faded">It will be a paper presentation by invited speakers in plenary session and all presenters in parallel session.</p></li>
-              <li><strong>Workshop for Academic Writing with Prof Paul K. Matsuda<br></strong></li>
-            </ol> -->
-            <!-- <div class="col-lg-8 mx-auto text-center">
-              <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
-            </div> -->
           </div>
         </div>
       </div>
@@ -102,13 +92,6 @@
               </div>
             </a>
           </div>
-          <!-- <div class="col-lg-4 col-sm-6">
-            <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">Made with Love</h3>
-              <p class="text-muted mb-0">You have to make your websites with love these days!</p>
-            </div>
-          </div> -->
         </div>
       </div>
     </section>
@@ -252,112 +235,49 @@
       </div>
       </div>
     </section>
-    
-<!--     <section class="p-0" id="portfolio">
-      <div class="container-fluid p-0">
-        <div class="row no-gutters popup-gallery">
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/1.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Register
-                  </div>
-                  <div class="project-name">
-                    Register your participation
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/2.jpg">
-              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/2.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Submission
-                  </div>
-                  <div class="project-name">
-                    Submission paper
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/3.jpg">
-              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/3.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Category
-                  </div>
-                  <div class="project-name">
-                    Project Name
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/4.jpg">
-              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/4.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Category
-                  </div>
-                  <div class="project-name">
-                    Project Name
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/5.jpg">
-              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/5.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Category
-                  </div>
-                  <div class="project-name">
-                    Project Name
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="<?php  echo base_url(); ?>assets/img/portfolio/fullsize/6.jpg">
-              <img class="img-fluid" src="<?php  echo base_url(); ?>assets/img/portfolio/thumbnails/6.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Category
-                  </div>
-                  <div class="project-name">
-                    Project Name
-                  </div>
-                </div>
-              </div>
-            </a>
+
+    <section class="bg-light">
+      <div class="container">
+        <div class="row">
+           <div class="col-lg-12 mx-auto">
+            <h2 class="section-heading text-uppercase text-center">Organized By</h2>
+            <hr class="my-4 mb-5">
+            <div class="mx-auto">
+              <table class="table">
+                <tr>
+                  <th >
+                    <h2>Organiser</h2>
+                  </th>
+                  <td>
+                    <ul>UNS
+                      <li>Fakultas Keguruan dan Ilmu Pendidikan - Universitas Sebelas Maret</li>
+                    </ul>
+                    <ul>FORKOM FKIP
+                      <li>Forum Komunikasi FKIP Negeri</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th >
+                    <h2>Supported By</h2>
+                  </th>
+                  <td>
+                    <ul>FORKOM FKIP
+                      <li>Forum Komunikasi FKIP Negeri</li>
+                    </ul>
+                    <ul>KEMENDIKBUD
+                      <li>Kementerian Pendidikan dan Kebudayaan</li>
+                    </ul>
+                  </td>
+                </tr>
+              </table>
+            </div>
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
 
-    <!-- <section class="bg-dark text-white">
-      <div class="container text-center">
-        <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-        <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
-      </div>
-    </section> -->
-
-    <section class="bg-light" id="contact">
+    <section class="" id="contact">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 mx-auto text-center">

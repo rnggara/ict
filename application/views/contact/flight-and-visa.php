@@ -1,19 +1,3 @@
-<header class="masthead text-center text-white d-flex">
-      <div class="container my-auto">
-        <div class="row">
-          <div class="col-lg-10 mx-auto">
-            <h1 class="text-uppercase">
-              <strong>FLIGHT & VISA</strong>
-            </h1>
-            <hr>
-          </div>
-          <div class="col-lg-8 mx-auto">
-           <!--  <p class="text-faded mb-5">Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p> -->
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
-          </div>
-        </div>
-      </div>
-    </header>
 
 <section class="" id="about">
   <div>
@@ -124,6 +108,60 @@
             <h4 class="mb-3">Visa Free Short Visit for Tourist</h4>
 
             <p class="mb-5" align="justify">Citizen of the following countries does not require a visa to enter Indonesia for a short visit of up to 30 days. More information about the visa exemption be derived from <a href="http://www.imigrasi.go.id/index.php/en/layanan-publik/bebas-visa#free-visa-countries-list">http://www.imigrasi.go.id/index.php/en/layanan-publik/bebas-visa#free-visa-countries-list</a>.</p>
+
+            <div class="form-group">
+              <table id="tablepress-5" class="table table-striped">
+              <thead>
+              <tr class="row-1 even">
+                <td class="column-1">1.</td><td class="column-2">Austria</td><td class="column-3">16.</td><td class="column-4">Hungary</td><td class="column-5">31.</td><td class="column-6">Philippines</td>
+              </tr>
+              </thead>
+              <tbody>
+              <tr class="row-2 even">
+                <td class="column-1">2.</td><td class="column-2">Bahrain</td><td class="column-3">17.</td><td class="column-4">Italy</td><td class="column-5">32.</td><td class="column-6">Poland</td>
+              </tr>
+              <tr class="row-3 odd">
+                <td class="column-1">3.</td><td class="column-2">Belgium</td><td class="column-3">18.</td><td class="column-4">Japan</td><td class="column-5">33.</td><td class="column-6">Qatar</td>
+              </tr>
+              <tr class="row-4 even">
+                <td class="column-1">4.</td><td class="column-2">Brunei</td><td class="column-3">19.</td><td class="column-4">Kuwait</td><td class="column-5">34.</td><td class="column-6">Russia</td>
+              </tr>
+              <tr class="row-5 odd">
+                <td class="column-1">5.</td><td class="column-2">Cambodia</td><td class="column-3">20.</td><td class="column-4">Laos</td><td class="column-5">35.</td><td class="column-6">Singapore</td>
+              </tr>
+              <tr class="row-6 even">
+                <td class="column-1">6.</td><td class="column-2">Canada</td><td class="column-3">21.</td><td class="column-4">Macau</td><td class="column-5">36.</td><td class="column-6">South Africa</td>
+              </tr>
+              <tr class="row-7 odd">
+                <td class="column-1">7.</td><td class="column-2">Chile</td><td class="column-3">22.</td><td class="column-4">Malaysia</td><td class="column-5">37.</td><td class="column-6">South Korea</td>
+              </tr>
+              <tr class="row-8 even">
+                <td class="column-1">8.</td><td class="column-2">China</td><td class="column-3">23.</td><td class="column-4">Mexico</td><td class="column-5">38.</td><td class="column-6">Spain</td>
+              </tr>
+              <tr class="row-9 odd">
+                <td class="column-1">9.</td><td class="column-2">Czech Republic</td><td class="column-3">24.</td><td class="column-4">Morocco</td><td class="column-5">39.</td><td class="column-6">Sweden</td>
+              </tr>
+              <tr class="row-10 even">
+                <td class="column-1">10.</td><td class="column-2">Denmark</td><td class="column-3">25.</td><td class="column-4">Myanmar</td><td class="column-5">40.</td><td class="column-6"> Switzerland</td>
+              </tr>
+              <tr class="row-11 odd">
+                <td class="column-1">11.</td><td class="column-2">Ecuador</td><td class="column-3">26.</td><td class="column-4">Netherlands</td><td class="column-5">41.</td><td class="column-6">Thailand</td>
+              </tr>
+              <tr class="row-12 even">
+                <td class="column-1">12.</td><td class="column-2">Finland</td><td class="column-3">27.</td><td class="column-4">New Zealand</td><td class="column-5">42.</td><td class="column-6">United Arab Emirates</td>
+              </tr>
+              <tr class="row-13 odd">
+                <td class="column-1">13.</td><td class="column-2">France</td><td class="column-3">28.</td><td class="column-4">Norway</td><td class="column-5">43.</td><td class="column-6">United Kingdom</td>
+              </tr>
+              <tr class="row-14 even">
+                <td class="column-1">14.</td><td class="column-2">Germany</td><td class="column-3">29.</td><td class="column-4">Oman</td><td class="column-5">44.</td><td class="column-6">United States</td>
+              </tr>
+              <tr class="row-15 odd">
+                <td class="column-1">15.</td><td class="column-2">Hong Kong</td><td class="column-3">30.</td><td class="column-4">Peru</td><td class="column-5">45.</td><td class="column-6">Vietnam</td>
+              </tr>
+              </tbody>
+              </table>
+            </div>
 
             <h4 class="mb-3">Invitation Letter</h4>
 
