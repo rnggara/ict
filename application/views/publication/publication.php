@@ -12,7 +12,7 @@
             <ul class="mb-5" align="justify">
               <li>Excellent papers will be nominated for publication in <strong><i>Advance Science Letters</i></strong> ISSN: 1936-6612 (Print): EISSN: 1936-7317 (Online). It is a scopus indexed journal.</li>
               <li>Selected papers will be published in an outstanding publisher. The publisher will submit all of the papers to be indexed in EI Compendex, Thomson Reuters Web of Science CPCI-S (ISTP indexing) and CNKI Scholar to worldwide online citation.</li>
-              <li>Ten selected papers will be published in <strong><i>International Journal of Pedagogy and Teacher Education (IJPTE)</i></strong> October 2018 issue. The IJPTE (e-ISSN: 2549-8525) is indexed by DOAJ, Crossref, Index Copernicus, and Google Scholar for worldwide readerships. IJPTE can be accessed via <a href="https://jurnal.uns.ac.id/ijpte">https://jurnal.uns.ac.id/ijpt</a>.</li>          
+              <li>Ten selected papers will be published in <strong><i>International Journal of Pedagogy and Teacher Education (IJPTE)</i></strong> October 2018 issue. The IJPTE (e-ISSN: 2549-8525) is indexed by DOAJ, Crossref, Index Copernicus, and Google Scholar for worldwide readerships. IJPTE can be accessed via <a href="https://jurnal.uns.ac.id/ijpte">https://jurnal.uns.ac.id/ijpte</a>.</li>          
               <li>The rest of the papers will be published at the <strong><i>Science, Engineering, Education and Development Studies (SEEDS): Conference Series</i></strong>.</li>
             </ul>
            
